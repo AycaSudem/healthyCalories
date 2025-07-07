@@ -1,15 +1,14 @@
-# ?? SA?LIKLI KALOR?LER
+# ?? SAĞLIKLI KALORİLER
 
-Bu proje, kullan?c?lar?n fiziksel ozellikleri ve ya?am tarz? bilgilerine dayanarak ki?iye ozel diyet planlar? olu?turan bir sa?l?kl? ya?am asistan?d?r. Uygulaman?n temel amac?; bireylerin kilo, boy, ya?, cinsiyet, aktivite duzeyi, hedef (kilo alma, verme, koruma) ve diyet tercihlerine gore bilimsel temellere dayal?, dengeli bir beslenme plan? sunmakt?r.
+Bu proje, kullanıcıların fiziksel özellikleri ve yaşam tarzı bilgilerine dayanarak kişiye özel diyet planları oluşturan bir sağlıklı yaşam asistanıdır. Uygulamanın temel amacı; bireylerin kilo, boy, yaş, cinsiyet, aktivite düzeyi, hedef (kilo alma, verme, koruma) ve diyet tercihlerine göre bilimsel temellere dayalı, dengeli bir beslenme planı sunmaktır.
 
-Uygulama oncelikle kullan?c?dan al?nan bilgiler do?rultusunda vucut kitle indeksini (BMI) ve ideal kilosunu hesaplar. Ard?ndan kullan?c?n?n hedefi goz onunde bulundurularak gunluk kalori ihtiyac? belirlenir. Bu kalori de?eri, dengeli bir makro da??l?m?na gore karbonhidrat, protein ve ya? oranlar?na bolunur. Kullan?c?ya sunulan plan; kahvalt?, o?le yeme?i, ak?am yeme?i ve ara o?unler olmak uzere o?unlere ayr?l?r. Her o?un icin uygun ve sa?l?kl? besin onerileri sunulur.
+Uygulama, öncelikle kullanıcıdan alınan bilgiler doğrultusunda vücut kitle indeksini (BMI) ve ideal kilosunu hesaplar. Ardından, kullanıcının hedefi göz önünde bulundurularak günlük kalori ihtiyacı belirlenir. Bu kalori değeri, dengeli bir makro dağılımına göre karbonhidrat, protein ve yağ oranlarına bölünür. Kullanıcıya sunulan plan; kahvaltı, öğle yemeği, akşam yemeği ve ara öğünler olmak üzere öğünlere ayrılır. Her öğün için uygun ve sağlıklı besin önerileri sunulur.
 
-Uygulaman?n dikkat ceken ozelliklerinden biri, yaln?zca bir diyet listesi sunman?n otesine gecmesidir. Sistem, e?er kullan?c? sa?l?ks?z bir hedef belirlerse (orne?in zaten zay?fken kilo vermek isterse) bunu tespit eder ve daha sa?l?kl? hedeflere yonlendirir. Bu sayede yeme bozukluklar?n?n ve bilincsiz diyetlerin onune gecilmesi hedeflenir.
+Uygulamanın dikkat çeken özelliklerinden biri, yalnızca bir diyet listesi sunmanın ötesine geçmesidir. Sistem, eğer kullanıcı sağlıksız bir hedef belirlerse (örneğin, zaten zayıfken kilo vermek isterse) bunu tespit eder ve daha sağlıklı hedeflere yönlendirir. Bu sayede yeme bozukluklarının ve bilinçsiz diyetlerin önüne geçilmesi hedeflenir.
 
-Kullan?c? dostu arayuzu sayesinde diyet plan? kolayca goruntulenebilir ve istenirse PDF format?nda d??a aktar?labilir. Boylece kullan?c?lar planlar?n? yanlar?nda ta??yabilir, gunluk ya?amlar?nda rahatca uygulayabilir.
+Kullanıcı dostu arayüzü sayesinde diyet planı kolayca görüntülenebilir ve istenirse PDF formatında dışa aktarılabilir. Böylece kullanıcılar planlarını yanlarında taşıyabilir, günlük yaşamlarında rahatça uygulayabilir.
 
-Bu uygulama sadece bireysel bir diyet planlay?c?s? de?il; ayn? zamanda kullan?c?y? sa?l?kl? ya?am konusunda bilinclendiren, hedeflerine do?ru guvenli ad?mlarla ilerlemesini sa?layan dijital bir ya?am kocudur.
-
+Bu uygulama sadece bireysel bir diyet planlayıcısı değil; aynı zamanda kullanıcıyı sağlıklı yaşam konusunda bilinçlendiren, hedeflerine doğru güvenli adımlarla ilerlemesini sağlayan dijital bir yaşam koçudur.
 ---
 
 # ?? HEALTHY CALORIES
